@@ -1,0 +1,25 @@
+/* ul, li, div{
+    display: inline;
+    border: 1px solid red;
+
+    padding: 30px;
+} */
+
+.inputBorderAndColor{
+    border: 2px solid black;
+    color: darkviolet;
+
+    padding: 10px;
+}
+
+.submitBtn{
+    padding: 5px 15px;
+}
+
+.deleteButtons{
+    margin-left: 10px;
+}
+
+ul{
+    border: 3px solid red;
+}
